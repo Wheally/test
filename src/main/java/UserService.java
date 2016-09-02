@@ -11,4 +11,7 @@ public class UserService {
         System.out.println("Hello World");
     }
 
+    public void getUserList(){
+        System.out.println("get UserList");
+    }
 }
