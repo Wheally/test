@@ -1,13 +1,5 @@
 *.class
-.idea
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-
-=======
->>>>>>> develop
->>>>>>> develop
-
+.idea/
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
